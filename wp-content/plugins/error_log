@@ -1,0 +1,2 @@
+[10-Oct-2015 08:41:28 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home5/orangfc1/public_html/mostlyconcretellc.com/wp-content/plugins/hello.php on line 60
+[23-Oct-2015 18:19:31 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home5/orangfc1/public_html/mostlyconcretellc.com/wp-content/plugins/hello.php on line 60

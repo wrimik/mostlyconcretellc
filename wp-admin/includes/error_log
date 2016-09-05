@@ -1,0 +1,1 @@
+[22-Aug-2016 13:16:54 America/Denver] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home5/orangfc1/public_html/mostlyconcretellc.com/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17
